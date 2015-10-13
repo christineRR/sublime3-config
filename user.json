@@ -1,0 +1,5 @@
+{ 
+  // set tab to 2 spaces
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true
+}
